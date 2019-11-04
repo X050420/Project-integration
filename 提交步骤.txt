@@ -1,0 +1,5 @@
+git status   查看工作区  暂存区
+git add .   提交工作区到暂存区
+git commit -m '描述'   提交暂存区到本地仓库
+git push origin master   提交本地仓库到git
+git pull origin master   拉取git到本地仓库
